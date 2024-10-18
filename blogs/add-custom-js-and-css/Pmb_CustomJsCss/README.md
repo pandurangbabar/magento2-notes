@@ -3,5 +3,8 @@
 ## Add js and css on specfic page
 ## Add js and css on all pages
 
-Please feel free to contact me if you need Magento development help. 
-Email : pandurangmbabar5@gmail.com
+## About me ##
+I am a Magento 2 developer with 10+ years of experience. Please feel free to contact me, if you need Magento 2 development help.
+
+* Email - pandurangmbabar5@gamil.com
+* Skype - live:pandurang.babar
