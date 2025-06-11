@@ -19,4 +19,3 @@ Sample code used to add custom js and css file in Magento 2 module.
 Feel free to contact me for Magento 2 development help..
 
 * Email - pandurangmbabar5@gamil.com
-* Skype - live:pandurang.babar
